@@ -1,0 +1,14 @@
+{
+  "name": "plause.github.io",
+  "version": "0.0.1",
+  "description": "My GitHub page",
+  "author": "Huazhou Wang <plause@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:plause/plause.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/plause/plause.github.io/issues"
+  }
+}

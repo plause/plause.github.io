@@ -1,0 +1,9 @@
+{
+  "name": "plause.github.io",
+  "version": "0.0.1",
+  "description": "My GitHub page",
+  "authors": [
+    "Huazhou Wang <plause@gmail.com>"
+  ],
+  "license": "MIT"
+}

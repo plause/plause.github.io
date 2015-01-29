@@ -11,7 +11,14 @@ module.exports = function(grunt) {
     }
   };
 
+  config.htmlmin = {
+    index: {
+      src: 'index.html',
+      dest: 'dist/site/index.html'
+    }
+  };
+
   grunt.initConfig(config);
 
-  grunt.registerTask('default', ['jshint']);
+  grunt.registerTask('default', ['jshint', 'htmlmin']);
 };
